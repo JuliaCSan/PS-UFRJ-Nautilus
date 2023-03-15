@@ -1,4 +1,3 @@
-
 class auv: 
     def __init__(self, nome, ano, num_thursters, num_sensores, cores, software):
         self.nome = nome
